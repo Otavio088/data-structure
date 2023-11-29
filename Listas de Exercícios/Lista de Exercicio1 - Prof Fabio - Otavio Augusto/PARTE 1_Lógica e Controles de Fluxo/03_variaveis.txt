@@ -1,0 +1,8 @@
+3. Explique o que é uma variável, como deve ser declarada e atribuído valores a mesma, bem como sua relação com a memória do computador.
+
+	Uma variável é um espaço reservado da memória usado para armazenar algum valor de determinado tipo. 
+	Para declarar uma variável é necessário informar o tipo e o nome (Ex.: int num; // tipo “inteiro” e 
+	nome “num”), também pode ser atribuído um valor inicial durante a declaração usando o operador de 
+	atribuição “=” (Ex.: int num = 0; //recebe 0). O valor a ser atribuído à variável pode ser atribuído 
+	mais para frente e com várias operações e condições envolvidas (Ex.: num = 2; ou num = 1+1;). Quando 
+	uma variável é declarada o sistema aloca um espaço na memória RAM.
